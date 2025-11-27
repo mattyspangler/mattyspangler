@@ -28,6 +28,7 @@
           <div><img title="C++" height="25" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" alt="icons"></div>
           <div><img title="C#" height="25" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&amp;logo=c-sharp&amp;logoColor=white" alt="icons"></div>
           <div><img title="Rust" height="25" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&amp;logo=rust&amp;logoColor=white" alt="icons"></div>
+          <div><img title="Go" height="25" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&amp;logo=go&amp;logoColor=white" alt="icons"></div>
           <div><img title="Python" height="25" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="icons"></div>
           <div><img title="Elisp" height="25" src="https://img.shields.io/badge/Elisp-%237F5AB6.svg?&amp;style=for-the-badge&amp;logo=gnu-emacs&amp;logoColor=white" alt="icons"></div>
           <div><img title="Bash" height="25" src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&amp;logo=gnu-bash&amp;logoColor=white" alt="icons"></div>
@@ -39,8 +40,9 @@
           <div><img title="HTML5" height="25" src="https://img.shields.io/badge/robotframework-%43B02A?style=for-the-badge&amp;logo=robotframework&amp;logoColor=white&amp;color=00c0b5" alt="icons"></div>
           <div><img title="HTML5" height="25" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&amp;logo=selenium&amp;logoColor=white" alt="icons"></div>
           <div><img title="HTML5" height="25" src="https://img.shields.io/badge/ansible-%43B02A?style=for-the-badge&amp;logo=ansible&amp;logoColor=white&amp;color=black" alt="icons"></div>
+          <div><img title="Terraform" height="25" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&amp;logo=terraform&amp;logoColor=white" alt="icons"></div>
+          <div><img title="SaltStack" height="25" src="https://img.shields.io/badge/saltstack-%2330C8AA.svg?style=for-the-badge&amp;logo=saltstack&amp;logoColor=white" alt="icons"></div>
           <div><img title="HTML5" height="25" src="https://img.shields.io/badge/OpenCV-%43B02A?style=for-the-badge&amp;logo=OpenCV&amp;logoColor=lightgreen&amp;color=blue" alt="icons"></div>
-          <div><img title="HTML5" height="25" src="https://img.shields.io/badge/pandas-%43B02A?style=for-the-badge&amp;logo=pandas&amp;logoColor=white&amp;color=darkblue" alt="icons"></div>
         </td>
         <td valign="top">
           <div><img title="HTML5" height="25" src="https://img.shields.io/badge/cisco_ios_xe%2Fxr%2Fnxos-%43B02A?style=for-the-badge&amp;logo=cisco&amp;logoColor=white&amp;color=blue" alt="icons"></div>
@@ -79,6 +81,7 @@
           <div><img title="HTML5" height="25" src="https://img.shields.io/badge/NixOS-%230E5C6E?style=for-the-badge&logo=nixos&logoColor=white" alt="icons"></div>         
           <div><img title="HTML5" height="25" src="https://img.shields.io/badge/debian-%43B02A?style=for-the-badge&amp;logo=debian&amp;logoColor=white&amp;color=A81D33" alt="icons"></div>
           <div><img title="HTML5" height="25" src="https://img.shields.io/badge/arch_linux-%43B02A?style=for-the-badge&amp;logo=archlinux&amp;logoColor=white&amp;color=1793D1" alt="icons"></div>
+          <div><img title="postmarketOS" height="25" src="https://img.shields.io/badge/postmarketOS-%23175DDC.svg?style=for-the-badge&amp;logo=postmarketos&amp;logoColor=white" alt="icons"></div>
           <div><img title="HTML5" height="25" src="https://img.shields.io/badge/Red%20Hat%20Enterprise%20Linux-%43B02A?style=for-the-badge&amp;logo=redhat&amp;logoColor=white&amp;color=EE0000" alt="icons"></div>
           <div><img title="HTML5" height="25" src="https://img.shields.io/badge/opensuse-%43B02A?style=for-the-badge&amp;logo=opensuse&amp;logoColor=white&amp;color=73BA25" alt="icons"></div>
           <div><img title="HTML5" height="25" src="https://img.shields.io/badge/freebsd-%43B02A?style=for-the-badge&amp;logo=freebsd&amp;logoColor=white&amp;color=AB2B28" alt="icons"></div>
